@@ -1,0 +1,26 @@
+body{
+    width: 367px;
+    margin: auto;
+
+}
+.block1{
+    display: none;
+}
+.block2{
+    margin-left: 0px;
+}
+.field{
+    width: 290px;
+}
+.ask-section .already{
+    margin-right: 0px;
+}
+.container{
+    height: 598px;
+}
+.connect .width1{
+    width: 113px;
+}
+.connect .width2{
+    width: 117px;
+}
